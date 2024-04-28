@@ -59,7 +59,7 @@ Seja bem-vindo à minha jornada pelo mundo do código! Juntos, vamos explorar no
 
 ### Contato
 
-![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilson-nascimento/)
 ![]()
 ![]()
 ![]()
