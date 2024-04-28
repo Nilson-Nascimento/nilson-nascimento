@@ -55,7 +55,7 @@ Seja bem-vindo à minha jornada pelo mundo do código! Juntos, vamos explorar no
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-nascimento&repo=github-readme-stats&theme=tokyonight)](https://github.com/uraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-nascimento&repo=site_gamesshop&theme=tokyonight)](https://github.com/uraghazra/github-readme-stats)
 
 ### Contato
 
