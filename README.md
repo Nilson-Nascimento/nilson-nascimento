@@ -20,3 +20,15 @@ A jornada o levou a trilhar os caminhos do desenvolvimento fullStack. Compreende
 Agora, neste vasto reino digital, ele compartilha sua experiência e conhecimento com outros entusiastas do código. Cada projeto fullStack é uma nova história a ser contada, uma oportunidade para criar algo extraordinário e deixar sua marca no mundo da tecnologia.
 
 Seja bem-vindo à minha jornada pelo mundo do código! Juntos, vamos explorar novos horizontes e escrever o futuro da tecnologia. 🚀🌐
+
+### Habilidades
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nilson-nascimento&show_icons=true&theme=tokyonight)](https://github.com/Nilson-nascimento/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-nascimento&repo=github-readme-stats&theme=tokyonight)](https://github.com/uraghazra/github-readme-stats)
