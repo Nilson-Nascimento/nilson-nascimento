@@ -51,7 +51,7 @@ Bem-vindo à minha jornada pelo mundo do código! Juntos, vamos explorar novos h
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-nascimento&repo=site_gamesshop&theme=tokyonight)](https://https://github.com/Nilson-Nascimento/site_gamesshop.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-nascimento&repo=site_gamesshop&theme=tokyonight)](https://https://site-gamesshop-ivory-omega.vercel.app)
 
 ### Contato
 
