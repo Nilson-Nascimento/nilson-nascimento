@@ -53,7 +53,7 @@ Bem-vindo à minha jornada pelo mundo do código! Juntos, vamos explorar novos h
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-nascimento&repo=site_gamesshop&theme=tokyonight)](http://site-gamesshop-ivory-omega.vercel.app)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-nascimento&repo=site-imobiliaria&theme=tokyonight)](http://site-imobiliaria-git-main-nilsonnstis-projects.vercel.app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-nascimento&repo=siteImobiliaria&theme=tokyonight)](http://site-imobiliaria-git-main-nilsonnstis-projects.vercel.app)
 
 ### Contato
 
