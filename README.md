@@ -47,7 +47,7 @@ Bem-vindo à minha jornada pelo mundo do código! Juntos, vamos explorar novos h
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nilson-nascimento&show_icons=true&theme=tokyonight)](https://github.com/Nilson-nascimento/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nilson-nascimento&show_icons=true&theme=shadow_blue)](https://github.com/Nilson-nascimento/github-readme-stats)
 
 ### Projetos
 
