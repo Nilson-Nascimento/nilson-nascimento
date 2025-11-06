@@ -55,6 +55,8 @@ Bem-vindo à minha jornada pelo mundo do código! Juntos, vamos explorar novos h
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-nascimento&repo=siteImobiliaria&theme=tokyonight)](http://site-imobiliaria-git-main-nilsonnstis-projects.vercel.app)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nilson-nascimento&repo=bmi_calculator&theme=tokyonight)](http://site-imobiliaria-git-main-nilsonnstis-projects.vercel.app)
+
 ### Contato
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilson-nascimento/)
